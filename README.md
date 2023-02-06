@@ -1,6 +1,6 @@
 # Go-AILab
 Demo project - python
-- https://github.com/go-ailab
+- https://github.com/DrUnicornIT/Go-AILab
 
 - Source
     - Github: https://github.com/ageitgey/face_recognition
@@ -8,7 +8,9 @@ Demo project - python
 
 
 ## Installation
-
+  ```sh
+    gulp build dist --prod
+  ```
 ### Requirements
 
   * Python 3.3+ or Python 2.7

@@ -1,0 +1,28 @@
+{
+    "members": [
+        {
+            "name": "DrUnicornOK",
+            "path": "./sample_images/DrUnicorn.jpg"
+        },
+        {
+            "name": "DrUnicorn",
+            "path": "./sample_images/DrUnicorn.jpg"
+        },
+        {
+            "name": "ABCDE",
+            "path": "./sample_images/ABCDE.jpg"
+        },
+        {
+            "name": "ABCDEF",
+            "path": "./sample_images/ABCDEF.jpg"
+        },
+        {
+            "name": "ABCDEFG",
+            "path": "./sample_images/ABCDEFG.jpg"
+        },
+        {
+            "name": "ABCDEFGH",
+            "path": "./sample_images/ABCDEFGH.jpg"
+        }
+    ]
+}

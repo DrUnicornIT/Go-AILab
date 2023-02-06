@@ -1,0 +1,18 @@
+<!doctype html>
+    <html>
+        <head>
+            <title>Face Detect</title>
+        </head>
+        <body>
+            <h1>Upload video</h1>
+            <form method=post enctype=multipart/form-data>
+            <input type=file name=file>
+            <input type=submit value=Upload>
+            </form>
+            <h2>Video output</h2>
+            <video width="320" height="240" controls>
+                <source src={{ url_for('static', filename="output.mp4") }} type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+        </body>
+    </html>

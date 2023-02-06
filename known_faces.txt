@@ -1,0 +1,1 @@
+[['DrUnicorn', 'sample_images/DrUnicorn.jpg'], ['CongNguyen', 'sample_images/CongNguyen.jpg'], ['Obama1', 'sample_images/Obama1.jpg'], ['ABCDEF', 'sample_images/ABCDEF.jpg'], ['ABCDE', 'sample_images/ABCDE.jpg'], ['ABCDEFG', 'sample_images/ABCDEFG.jpg'], ['ABCDEFGH', 'sample_images/ABCDEFGH.jpg']]
